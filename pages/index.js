@@ -1,9 +1,9 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from '@next/font/google'
-import { StarIcon } from '@heroicons/react/24/solid'
+import Head from "next/head";
+import Image from "next/image";
+import { Inter } from "@next/font/google";
+import { StarIcon } from "@heroicons/react/24/solid";
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
@@ -15,17 +15,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-      <div className='grid h-screen place-items-center'>
-        <div className='bg-gradient-to-r from-blue-500'>
-            <div className='bg-gray-100 rounded-full place-items-center'>
-            <div>
-              <StarIcon className='w-4 text-orange-500'/>
-            </div>
+        <div className="grid h-screen place-items-center">
+          <div className="bg-gradient-to-r from-blue-500">
+            <div className="bg-gray-100 rounded-full place-items-center">
+              <div>
+                <StarIcon className="w-4 text-orange-500" />
+              </div>
             </div>
           </div>
-      </div>
-        
+        </div>
       </main>
     </>
-  )
+  );
 }
