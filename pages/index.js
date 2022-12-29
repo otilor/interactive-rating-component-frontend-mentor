@@ -22,6 +22,11 @@ export default function Home() {
                 <StarIcon className="w-4 text-orange-500" />
               </div>
             </div>
+            <div>
+              <h4>How did we do?</h4>
+              <p>Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!</p>
+            </div>
+            
           </div>
         </div>
       </main>
