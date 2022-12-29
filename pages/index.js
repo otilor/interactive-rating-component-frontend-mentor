@@ -29,6 +29,12 @@ export default function Home() {
                 feedback is appreciated to help us improve our offering!
               </p>
             </div>
+            <div className="space-x-4">
+              <div className="inline-flex bg-gray-500 w-12 h-12 rounded-full"></div>
+              <div className="inline-flex bg-gray-500 w-12 h-12 rounded-full"></div>
+              <div className="inline-flex bg-gray-500 w-12 h-12 rounded-full"></div>
+              <div className="inline-flex bg-gray-500 w-12 h-12 rounded-full"></div>
+            </div>
           </div>
         </div>
       </main>
