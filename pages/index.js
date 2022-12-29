@@ -32,8 +32,9 @@ export default function Home() {
             <div className="space-x-4 ml-4 mt-4">
               <div className="bg-gray-500 w-12 h-12 rounded-full inline-flex items-center justify-center">1</div>
               <div className="bg-gray-500 w-12 h-12 rounded-full inline-flex items-center justify-center">2</div>
-              <div className="bg-gray-500 w-12 h-12 rounded-full inline-flex items-center justify-center">2</div>
-              <div className="bg-gray-500 w-12 h-12 rounded-full inline-flex items-center justify-center">2</div>
+              <div className="bg-gray-500 w-12 h-12 rounded-full inline-flex items-center justify-center">3</div>
+              <div className="bg-gray-500 w-12 h-12 rounded-full inline-flex items-center justify-center">4</div>
+              <div className="bg-gray-500 w-12 h-12 rounded-full inline-flex items-center justify-center">5</div>
             </div>
           </div>
         </div>
