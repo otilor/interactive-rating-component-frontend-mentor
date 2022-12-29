@@ -17,8 +17,10 @@ export default function Home() {
       <main>
       <div className='grid h-screen place-items-center'>
         <div className='bg-gradient-to-r from-blue-500'>
-            <div className='bg-gray-100 pt-4 pl-4 '>
-              <StarIcon className='w-4 rounded-full bg-gray-700'/>
+            <div className='bg-gray-100 rounded-full place-items-center'>
+            <div>
+              <StarIcon className='w-4 text-orange-500'/>
+            </div>
             </div>
           </div>
       </div>
