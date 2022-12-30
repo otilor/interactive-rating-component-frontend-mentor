@@ -24,17 +24,17 @@ export default function Home() {
             </div>
             <div className="ml-4 mt-6">
               <h4 className="text-xl font-bold tracking-light mb-4">How did we do?</h4>
-              <p className="text-thin text-slate-400">
+              <p className="text-thin text-gray-400">
                 Please let us know how we did with your support request. All
                 feedback is appreciated to help us improve our offering!
               </p>
             </div>
-            <div className="space-x-4 ml-4 mt-6 text-gray-200">
-              <div className="bg-slate-500 w-12 h-12 rounded-full inline-flex items-center justify-center">1</div>
-              <div className="bg-slate-500 w-12 h-12 rounded-full inline-flex items-center justify-center">2</div>
-              <div className="bg-slate-500 w-12 h-12 rounded-full inline-flex items-center justify-center">3</div>
-              <div className="bg-slate-500 w-12 h-12 rounded-full inline-flex items-center justify-center">4</div>
-              <div className="bg-slate-500 w-12 h-12 rounded-full inline-flex items-center justify-center">5</div>
+            <div className="space-x-4 ml-4 mt-6 text-gray-400">
+              <div className="bg-slate-600 w-12 h-12 rounded-full inline-flex items-center justify-center">1</div>
+              <div className="bg-slate-600 w-12 h-12 rounded-full inline-flex items-center justify-center">2</div>
+              <div className="bg-slate-600 w-12 h-12 rounded-full inline-flex items-center justify-center">3</div>
+              <div className="bg-slate-600 w-12 h-12 rounded-full inline-flex items-center justify-center">4</div>
+              <div className="bg-slate-600 w-12 h-12 rounded-full inline-flex items-center justify-center">5</div>
             </div>
 
   
