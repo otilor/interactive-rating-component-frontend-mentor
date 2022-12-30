@@ -37,7 +37,7 @@ export default function Home() {
               <div className="bg-gray-500 w-12 h-12 rounded-full inline-flex items-center justify-center">5</div>
             </div>
 
-              <button className="uppercase place-items-center grid block w-full tracking-wide font-bold bg-orange-500 rounded-3xl text-white p-3 flex m-4">Submit</button>
+              <button className="uppercase place-items-center grid block w-full tracking-wide font-bold bg-orange-500 rounded-3xl text-white p-3 mt-4">Submit</button>
           </div>
         </div>
       </main>
