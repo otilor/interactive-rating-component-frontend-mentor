@@ -38,7 +38,7 @@ export default function Home() {
             </div>
 
   
-              <div className="place-items-center grid">
+              <div className="place-items-center grid mt-4 mb-3">
                 <button on className="uppercase place-items-center grid block w-11/12 tracking-wide font-bold bg-orange-500 rounded-3xl text-white p-3 mt-4 mb-4">Submit</button>
               </div>
           </div>
