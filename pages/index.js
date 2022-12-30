@@ -22,7 +22,7 @@ export default function Home() {
                 <StarIcon className="text-orange-500" />
               </div>
             </div>
-            <div className="ml-4 mt-4">
+            <div className="ml-4 mt-6">
               <h4 className="text-xl tracking-light">How did we do?</h4>
               <p>
                 Please let us know how we did with your support request. All
