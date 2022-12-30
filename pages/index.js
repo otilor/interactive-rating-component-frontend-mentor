@@ -23,8 +23,8 @@ export default function Home() {
               </div>
             </div>
             <div className="ml-4 mt-6">
-              <h4 className="text-xl tracking-light mb-4">How did we do?</h4>
-              <p>
+              <h4 className="text-xl font-bold tracking-light mb-4">How did we do?</h4>
+              <p className="text-thin">
                 Please let us know how we did with your support request. All
                 feedback is appreciated to help us improve our offering!
               </p>
